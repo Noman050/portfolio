@@ -19,9 +19,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Annie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
